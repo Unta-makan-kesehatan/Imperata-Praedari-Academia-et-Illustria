@@ -138,7 +138,7 @@ body::before {
   margin-right: auto;
 }
 .md-typeset .chapter-deck { color: #c8bfaa; font-size: 1.12rem; font-style: italic; }
-.chapter-jumps { display: flex; flex-wrap: wrap; gap: .55rem; margin: 1.5rem 0 2rem; }
+.chapter-jumps { display: flex; flex-wrap: wrap; gap: .55rem; width: 100%; max-width: var(--reading-column); margin: 1.5rem auto 2rem; }
 .chapter-jumps a { padding: .45rem .7rem; border: 1px solid #b8a06b50; border-radius: 2px; font: .62rem/1.5 Arial, sans-serif; background: rgba(9, 10, 9, .72); }
 .chapter-jumps a:hover { background: rgba(181, 138, 71, .14); border-color: #d7b777; }
 .md-typeset .chapter-jumps + h2 { margin-top: 0; }
