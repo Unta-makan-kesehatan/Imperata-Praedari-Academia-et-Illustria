@@ -15,7 +15,7 @@ hide:
 
 <p class="chapter-deck">A thousand roads leading toward a thousand thrones.</p>
 
-<nav class="chapter-jumps" aria-label="Explore this chapter"><a href="#a-continent-divided">The divided continent</a><a href="#the-empires-ambition">The Empire</a><a href="mana/">Mana &amp; Praedari <span aria-hidden="true">↗</span></a></nav>
+<nav class="chapter-jumps" aria-label="Explore this chapter"><a href="#a-continent-divided">The divided continent</a><a href="#the-empires-ambition">The Empire</a></nav>
 
 ## A continent divided
 
