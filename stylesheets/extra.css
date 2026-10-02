@@ -110,12 +110,20 @@ body::before {
   margin-right: auto;
 }
 .md-typeset > p:has(> .mana-banner) {
-  max-width: none;
+  width: 100%;
+  max-width: var(--reading-column);
+  margin-left: auto;
+  margin-right: auto;
 }
 .md-typeset h1, .md-typeset h2, .md-typeset h3 { font-family: Georgia, serif; color: #f0e4c9; font-weight: normal; line-height: 1.2; }
 .md-typeset h1 { margin: 0 0 .6em; font-size: clamp(2.3rem, 5vw, 3.6rem); letter-spacing: -.035em; }
 .md-typeset h2 { margin: 2.5em 0 1em; padding-top: 1.2em; border-top: 1px solid #b8a06b40; font-size: 1.6rem; }
 .md-typeset h3 { margin-top: 2em; font-size: 1.2rem; color: #dbbf86; }
+.md-typeset .magic-item-title {
+  font-size: clamp(1.15rem, 4.5vw, 2.35rem);
+  white-space: nowrap;
+  letter-spacing: -0.03em;
+}
 .md-typeset h1 strong, .md-typeset h2 strong, .md-typeset h3 strong { font-weight: normal; }
 .md-typeset strong { color: #ede1c7; }
 .md-typeset a { color: #d7b777; }
@@ -192,11 +200,12 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid 
 .mana-banner {
   display: block;
   width: 100%;
+  max-width: var(--reading-column);
   max-height: 320px;
   aspect-ratio: 3 / 1;
   object-fit: cover;
   object-position: center;
-  margin: 1.5rem 0 2rem;
+  margin: 1.5rem auto 2rem;
   border: 1px solid #b8a06b50;
   border-radius: 3px;
 }
@@ -338,7 +347,8 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid 
 
 /* Imperial invitation landing page */
 :is(body.is-invitation-page, body:has(.invitation-page)) {
-  overflow-x: hidden;
+  overflow-x: clip;
+  overflow-y: visible;
 }
 
 :is(body.is-invitation-page, body:has(.invitation-page)) .md-header,
@@ -1084,4 +1094,53 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid 
     box-shadow: none;
     transform: none;
   }
+}
+.praedari-rank-image {
+  display: block;
+  width: 100%;
+  max-width: var(--reading-column);
+  max-height: 190px;
+  aspect-ratio: 3 / 1;
+  object-fit: cover;
+  object-position: center;
+  margin: 0.8rem auto 1.4rem;
+  border: 1px solid rgba(184, 160, 107, 0.45);
+  border-radius: 3px;
+}
+.praedari-rank-image--eminens {
+  object-position: center 25%;
+}
+
+/* Keep the city and chrome anchored while the reading panel changes. */
+html { view-transition-name: none; }
+.md-content { view-transition-name: archive-content; }
+.md-progress { background: #d7b777; }
+html.archive-navigating { scroll-behavior: auto; }
+::view-transition { pointer-events: none; }
+::view-transition-group(archive-content) { animation: none; }
+::view-transition-old(archive-content),
+::view-transition-new(archive-content) {
+  width: 100%;
+  height: auto;
+  mix-blend-mode: normal;
+  animation-duration: 250ms;
+  animation-timing-function: ease-out;
+  animation-fill-mode: both;
+}
+::view-transition-old(archive-content) { animation-name: archive-leave; }
+::view-transition-new(archive-content) { animation-name: archive-arrive; }
+html.archive-ceremony::view-transition-old(archive-content),
+html.archive-ceremony::view-transition-new(archive-content) { animation-duration: 550ms; }
+@keyframes archive-leave {
+  to { opacity: 0; }
+}
+@keyframes archive-arrive {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .md-content { view-transition-name: none; }
+  ::view-transition-group(*),
+  ::view-transition-old(*),
+  ::view-transition-new(*) { animation: none !important; }
 }

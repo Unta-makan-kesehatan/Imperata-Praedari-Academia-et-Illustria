@@ -1,8 +1,12 @@
 (() => {
   "use strict";
+  let cleanup = () => {};
 
   function initialiseInvitation() {
+    cleanup();
+    cleanup = () => {};
     const invitation = document.querySelector("[data-invitation]");
+    document.body.classList.toggle("is-invitation-page", Boolean(invitation));
 
     if (!invitation || invitation.dataset.ready === "true") {
       return;
@@ -25,6 +29,10 @@
 
     let hasOpened = false;
     let openingTimer;
+    cleanup = () => {
+      window.clearTimeout(openingTimer);
+      if (audio) audio.pause();
+    };
 
     if (audio) {
       audio.volume = 0.36;
@@ -102,7 +110,10 @@
     }
   }
 
-  if (document.readyState === "loading") {
+  window.addEventListener("pagehide", () => cleanup());
+  if (window.document$) {
+    window.document$.subscribe(initialiseInvitation);
+  } else if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", initialiseInvitation, { once: true });
   } else {
     initialiseInvitation();
