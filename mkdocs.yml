@@ -1,4 +1,5 @@
 site_name: "Imperata Praedari: Academia et Illustria"
+site_url: https://unta-makan-kesehatan.github.io/strixhaven-site/
 
 theme:
   name: material
@@ -6,6 +7,9 @@ theme:
   icon:
     logo: material/compass-rose
   features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
     - navigation.top
     - navigation.footer
     - search.suggest
@@ -14,11 +18,16 @@ theme:
     scheme: slate
 
 nav:
-  - The World of Avara: index.md
-  - Mana & Praedari: mana.md
+  - The World of Avara: world.md
+
+  - Mana & Praedari:
+      - Overview: mana.md
+      - Praedari Disciplines: "praedari disciplines.md"
+      - Magic Item Classification: "magic item classification.md"
+
   - The Gods: the gods.md
   - Races: races.md
-
+  
 markdown_extensions:
   - attr_list
   - md_in_html
@@ -27,3 +36,7 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/invitation.js
+  - javascripts/transitions.js
