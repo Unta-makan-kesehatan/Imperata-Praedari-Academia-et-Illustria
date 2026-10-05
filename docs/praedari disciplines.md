@@ -2,6 +2,8 @@
 
 ## **Wizard**
 
+<img class="praedari-discipline-image" src="../assets/images/praedari%20discipline/wizard.png" alt="Wizard Praedari discipline">
+
 A Wizard concentrates mana around the **mind**, where memory, calculation, and understanding shape their magic. Rather than creating an effect entirely through mana, Wizards study the laws of nature and use mana to make a **precise alteration that causes the desired result**.
 
  A small spark becomes fire, a fracture spreads through stone, or a shift in air becomes something far greater. Their spells are built from complex **diagrams, symbols, calculations, and mana pathways** recorded within spellbooks.
@@ -11,6 +13,8 @@ For combat, Wizards prepare these diagrams beforehand by repeatedly circulating 
 Their strength lies in **knowledge, preparation, and using mana to nudge nature to do the rest.**
 
 ## **Artificer**
+
+<img class="praedari-discipline-image" src="../assets/images/praedari%20discipline/artificer.png" alt="Artificer Praedari discipline">
 
 An Artificer's magic comes from the **devices they create**, not directly from their own body. Their unique talent allows them to understand and construct artificial pathways through which mana can flow.  They incorporate these pathways into weapons, tools, armor, and machines, treating mana as simply another part of engineering alongside metal, heat, pressure, electricity, and motion.
 
@@ -22,6 +26,8 @@ The artificer ingenuity creates the device that allows them to impose their will
 
 ## **Sorcerer**
 
+<img class="praedari-discipline-image" src="../assets/images/praedari%20discipline/sorcerer.png" alt="Sorcerer Praedari discipline">
+
 A Sorcerer is born with an unusually close connection to mana, which gathers strongest around the **heart** and spreads through branching pathways across the body. These pathways function like a natural magical circuit. By moving their body, Sorcerers guide mana through those channels and draw surrounding mana into the spell..
 
 Their casting is highly physical. Their movements resemble **a series of traditional martial arts sets of movements**. Unlike Wizards, Sorcerers do not rely on prepared diagrams. They can alter a spell while casting it, changing its **range, direction, shape, speed, or intensity** in the moment. With enough mastery, larger movements can be reduced to smaller gestures, though doing so requires greater concentration and control.
@@ -29,6 +35,8 @@ Their casting is highly physical. Their movements resemble **a series of traditi
 A Sorcerer's strength lies in **instinctive control, flexibility, and shaping magic through the body itself**.
 
 ## **Druid**
+
+<img class="praedari-discipline-image" src="../assets/images/praedari%20discipline/druid.png" alt="Druid Praedari discipline">
 
 A Druid concentrates mana around the **lungs**, using breaths as the connection between their body and the living world. Rather than creating nature, they strengthen what already exists. Seeds, roots, spores, water, and other living material can be flooded with mana and forced to grow or change at unnatural speed.
 
@@ -38,6 +46,8 @@ A Druid's strength lies in **working with nature rather than imposing upon it**.
 
 ## **Ranger**
 
+<img class="praedari-discipline-image" src="../assets/images/praedari%20discipline/ranger.png" alt="Ranger Praedari discipline">
+
 A Ranger concentrates most of their mana around the **dantian**, using it to reinforce the body, sharpen the senses, steady movement, and strengthen attacks. A smaller portion gathers around the **lungs**, giving them a limited connection to nature.  Unlike Druids, Rangers do not fully devote themselves to the living world. They keep most of their mana focused on themselves.
 
 They can use nearby plants, seeds, roots, spores, and other natural materials to produce simple magical effects, often carrying such materials with them when the environment offers little to work with. Their mana can also be driven through the body and into their weapons, allowing them to run faster, perceive more clearly, draw heavier bows, and strengthen their attacks.
@@ -45,6 +55,8 @@ They can use nearby plants, seeds, roots, spores, and other natural materials to
 A Ranger's strength lies in **combining physical enhancement with practical nature magic**.
 
 ## **Artist**
+
+<img class="praedari-discipline-image" src="../assets/images/praedari%20discipline/the%20artist.png" alt="Artist Praedari discipline">
 
 An Artist concentrates mana around the **head**, focusing on the parts where memory, imagination, and emotion rest. This is how their magic manifests.
 
@@ -56,6 +68,8 @@ An Artist's strength lies in **emotion, expression, and resonance with the mana*
 
 ## **Warrior**
 
+<img class="praedari-discipline-image" src="../assets/images/praedari%20discipline/warrior.png" alt="Warrior Praedari discipline">
+
 A Warrior concentrates mana around the heart and uses it to drive the body far beyond its natural limits. In battle, they deliberately accelerate the heart, blood flow, and adrenaline response, forcing mana through muscle, bone, and tendon. 
 
 Every wound they receive becomes fuel to keep their heart at an accelerated state. This greatly increases their **strength, endurance, pain tolerance, and durability**. What appears to be uncontrolled rage is usually deliberate. A trained Warrior remains mentally focused while pushing their body into an extreme combat state.
@@ -64,6 +78,8 @@ Every wound they receive becomes fuel to keep their heart at an accelerated stat
 
 ## **Fighter**
 
+<img class="praedari-discipline-image" src="../assets/images/praedari%20discipline/fighter.png" alt="Fighter Praedari discipline">
+
 A Fighter channels mana through the **nervous system**, shortening the gap between thought and movement. This gives them exceptional **reaction speed, coordination, and control**.  Their bodies respond to subtle changes in an opponent's movement almost instinctively.
 
 Fighters also learn weapons unusually quickly. The mana reinforce their muscle memory and techniques become deeply ingrained incomparably faster to normal humans. This allows Fighters to become a walking encyclopedia of martial arts from various weapons and disciplines.
@@ -71,6 +87,8 @@ Fighters also learn weapons unusually quickly. The mana reinforce their muscle m
 At higher levels, they develop a personal combat style built around their own body and mana. Their strength lies not in raw power, but in **technique, eliminating wasted movement,**.**and** **inhuman reaction speed**.
 
 ## **Rogue**
+
+<img class="praedari-discipline-image" src="../assets/images/praedari%20discipline/rogue.png" alt="Rogue Praedari discipline">
 
 A Rogue's mana does not gather strongly in any single part of the body. It spreads thinly and evenly through flesh, bone, nerves, and senses, making their presence unusually difficult to detect.
 
@@ -82,6 +100,8 @@ They are valued not for overwhelming power, but for **subtlety and stealth.**
 
 ## **Martial Artist**
 
+<img class="praedari-discipline-image" src="../assets/images/praedari%20discipline/martial%20artist.png" alt="Martial Artist Praedari discipline">
+
 A Martial Artist distributes mana through seven connected points running from the base of the spine to the crown of the head. Their discipline is built around keeping these points balanced and allowing mana to flow continuously through the body.
 
 Through constant training in breath, movement, perception, and control, the body begins to act as a single coordinated whole. This gives Martial Artists exceptional **speed, balance, agility, and mobility.**
@@ -91,6 +111,8 @@ They also learn to perceive subtle weaknesses in the body and its mana flow.  Ra
 Their strength lies in **balance, speed, and precision rather than raw power.**
 
 ## **Paladin**
+
+<img class="praedari-discipline-image" src="../assets/images/praedari%20discipline/paladin.png" alt="Paladin Praedari discipline">
 
 A Paladin is unusual because most are **not born Praedari**. Their mana awakens later in life when they develop a devotion so absolute that something becomes more important to them than their own survival. Their devotion does not need to belong to a god. It may be directed toward a person, duty, homeland, belief, or cause. What matters is that **the devotion is genuine**.
 
@@ -109,6 +131,8 @@ Their magic therefore originates from the **god rather than the Cleric**, and an
 A Cleric's strength lies in **devotion and an ongoing connection to the divine**.
 
 ## **Warlock**
+
+<img class="praedari-discipline-image" src="../assets/images/praedari%20discipline/warlock.png" alt="Warlock Praedari discipline">
 
 A Warlock gains divine power through a **contract with a god**. Something is offered, something is demanded, and if both sides agree, the Warlock is allowed to channel that deity's mana. Devotion is not required; the relationship exists because of the bargain.
 

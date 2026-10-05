@@ -1111,6 +1111,19 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid 
   object-position: center 25%;
 }
 
+.praedari-discipline-image {
+  display: block;
+  width: 100%;
+  max-width: var(--reading-column);
+  height: auto;
+  aspect-ratio: 3 / 1;
+  object-fit: cover;
+  object-position: center;
+  margin: 0.8rem auto 1.4rem;
+  border: 1px solid rgba(184, 160, 107, 0.45);
+  border-radius: 3px;
+}
+
 /* Keep the city and chrome anchored while the reading panel changes. */
 html { view-transition-name: none; }
 .md-content { view-transition-name: archive-content; }
