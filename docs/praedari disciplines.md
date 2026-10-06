@@ -10,6 +10,8 @@ A Wizard concentrates mana around the **mind**, where memory, calculation, and u
 
 For combat, Wizards prepare these diagrams beforehand by repeatedly circulating mana through specific pathways beneath the skin until the body remembers them. These pathways eventually appear as faint geometric markings resembling an arcane tattoo, that activate when the spell is cast.
 
+At higher levels, many wizards create their own personal spells, diagrams that could be understood only by the user. Many have tried to thread this path, only a few came out unscathed and succeeded.
+
 Their strength lies in **knowledge, preparation, and using mana to nudge nature to do the rest.**
 
 ## **Artificer**
@@ -22,6 +24,8 @@ When an Artificer produces a magical effect, the **device itself becomes its poi
 
 Their creations usually aren't made for just anyone either. An artificer's own mana is often woven into the device's workings, serving as both fuel and key.
 
+Artificer is the backbone of science and inventions, many artificers have contributed to the progress of humanity. Some create new vehicles, new alchemic formulas and last but not least **magic items**. 
+
 The artificer ingenuity creates the device that allows them to impose their will on the law of nature itself.
 
 ## **Sorcerer**
@@ -32,7 +36,10 @@ A Sorcerer is born with an unusually close connection to mana, which gathers str
 
 Their casting is highly physical. Their movements resemble **a series of traditional martial arts sets of movements**. Unlike Wizards, Sorcerers do not rely on prepared diagrams. They can alter a spell while casting it, changing its **range, direction, shape, speed, or intensity** in the moment. With enough mastery, larger movements can be reduced to smaller gestures, though doing so requires greater concentration and control.
 
+Same with the wizard some exceptional sorcerers create new spells, albeit not from a new formula, but body performance. The tiny percentage population of sorcerers succeeded to find new patterns where one can create a spell no one else has seen before.
+
 A Sorcerer's strength lies in **instinctive control, flexibility, and shaping magic through the body itself**.
+
 
 ## **Druid**
 
@@ -42,7 +49,9 @@ A Druid concentrates mana around the **lungs**, using breaths as the connection 
 
 Because of this, Druids often carry seeds, herbs, roots, spores, and other natural materials with them, giving them something to work with even where nature is scarce. Their magic relies heavily on **breathing, understanding, and connection with nature itself**.  The same principle allows them to transform their own bodies, using mana to take on the form of creatures they deeply understand.
 
-A Druid's strength lies in **working with nature rather than imposing upon it**.
+The path of the druid is to learn nature itself, and yet even after millennia passed, nature somehow always finds a way to teach us something new. A small percentage of druids found a new law of nature that he/she exploited to make original spells, some found a new form of beast or animal to transform too. Many tried, some succeeded, others are taken away by nature as a price for trying.
+
+A Druid's strength lies in **learning and enhancing their connections to nature.**
 
 ## **Ranger**
 
@@ -50,21 +59,23 @@ A Druid's strength lies in **working with nature rather than imposing upon it**.
 
 A Ranger concentrates most of their mana around the **dantian**, using it to reinforce the body, sharpen the senses, steady movement, and strengthen attacks. A smaller portion gathers around the **lungs**, giving them a limited connection to nature.  Unlike Druids, Rangers do not fully devote themselves to the living world. They keep most of their mana focused on themselves.
 
+Yet, a true Ranger's strength lies beyond combining physical enhancement with practical nature magic. 
+
 They can use nearby plants, seeds, roots, spores, and other natural materials to produce simple magical effects, often carrying such materials with them when the environment offers little to work with. Their mana can also be driven through the body and into their weapons, allowing them to run faster, perceive more clearly, draw heavier bows, and strengthen their attacks.
 
-A Ranger's strength lies in **combining physical enhancement with practical nature magic**.
+Druids are the nurturers of nature. **Rangers are its apex predators.**
 
 ## **Artist**
 
 <img class="praedari-discipline-image" src="../assets/images/praedari%20discipline/the%20artist.png" alt="Artist Praedari discipline">
 
-An Artist concentrates mana around the **head**, focusing on the parts where memory, imagination, and emotion rest. This is how their magic manifests.
+An Artist concentrates mana around the **head**, focusing on the parts where memory, imagination, and emotion rest. This is how their magic manifests. An Artist's strength lies in **emotion, expression, and resonance with the mana**.
 
 They do not cast through calculation. They cast through **performance and emotional resonance**. Music, painting, dance, poetry, storytelling, and other forms of art can all become mediums for magic.
 
-Emotion is the true catalyst. The stronger and more genuine the feeling behind the performance, the more powerfully their mana responds and spreads through those who experience it. At higher levels, the boundary between expression and reality can begin to blur, allowing an Artist's work to produce effects that feel almost real.
+Emotion is the true catalyst. The stronger and more genuine the feeling behind the performance, the more powerfully their mana responds and spreads through those who experience it. 
 
-An Artist's strength lies in **emotion, expression, and resonance with the mana**.
+At higher levels, the boundary between expression and reality can begin to blur, allowing an Artist's work to produce effects that feel almost real. This expression can give birth to something the world has never seen, it could be something beautiful or horrendous. Some Artists who fail to control their mana are eventually swallowed whole by their own masterpieces.
 
 ## **Warrior**
 
@@ -75,6 +86,11 @@ A Warrior concentrates mana around the heart and uses it to drive the body far b
 Every wound they receive becomes fuel to keep their heart at an accelerated state. This greatly increases their **strength, endurance, pain tolerance, and durability**. What appears to be uncontrolled rage is usually deliberate. A trained Warrior remains mentally focused while pushing their body into an extreme combat state.
 
 **Their fighting style favors overwhelming physical force and persistence.** Every strike carries the weight of a mana-reinforced body, and once committed to an attack, a Warrior is exceptionally difficult to stop.
+
+And yet a true warrior knows, overwhelming physical force and persistence is just the foundation. An exceptional warrior could make their body regenerate faster, or concentrating their strength for one final strike. There are many paths a warrior may learn beyond the simple strengthening of the body.
+
+**In the end, a true warrior finds their own path.**
+
 
 ## **Fighter**
 
@@ -94,21 +110,23 @@ A Rogue's mana does not gather strongly in any single part of the body. It sprea
 
 Because their mana is distributed everywhere, Rogues can redirect it wherever needed: speed, strength, precision, perception, or movement. They rarely surpass specialists in any one area, but their strength lies in **adaptability**.
 
-More unusually, **their mana leaves almost no lasting trace**. Physical reinforcement, heightened senses, or mana-enhanced attacks fade without the lingering residue normally left by other Praedari. Even while present, **a Rogue may appear as ordinary people to mana perception.** 
+More unusually, **their mana leaves almost no lasting trace**. Physical reinforcement, heightened senses, or mana-enhanced attacks fade without the lingering residue normally left by other Praedari. Even while present, **a Rogue may appear as ordinary people to mana perception.** They are valued not for overwhelming power, but for **subtlety and stealth.**
 
-They are valued not for overwhelming power, but for **subtlety and stealth.**
+A well-developed Rogue eventually finds strength within their seemingly scattered talents. Some learn to brew poisons for which no cure exists. Others perfect the art of disguise until even magic struggles to see through it.
+
+**The path of the Rogue has no single direction, and no one can say with certainty where its limits lie.**
 
 ## **Martial Artist**
 
 <img class="praedari-discipline-image" src="../assets/images/praedari%20discipline/martial%20artist.png" alt="Martial Artist Praedari discipline">
 
-A Martial Artist distributes mana through seven connected points running from the base of the spine to the crown of the head. Their discipline is built around keeping these points balanced and allowing mana to flow continuously through the body.
+Martial artist foundation lies in **balance, speed, and precision rather than raw power.** They distributes mana through seven connected points running from the base of the spine to the crown of the head. Their discipline is built around keeping these points balanced and allowing mana to flow continuously through the body.
 
 Through constant training in breath, movement, perception, and control, the body begins to act as a single coordinated whole. This gives Martial Artists exceptional **speed, balance, agility, and mobility.**
 
-They also learn to perceive subtle weaknesses in the body and its mana flow.  Rather than relying on overwhelming force, they use precise strikes to disrupt movement, breathing, balance, or mana pathways.
+They also learn to perceive subtle weaknesses in the body and its mana flow. Rather than relying on overwhelming force, they use precise strikes to disrupt movement, breathing, balance, or mana pathways.
 
-Their strength lies in **balance, speed, and precision rather than raw power.**
+The fortunate few among martial artists may one day discover a true balance within themselves, drawing from all they have practiced without remaining bound to any single form. What emerges from that balance is an art uniquely their own, one that no other person could perform in quite the same way.
 
 ## **Paladin**
 
