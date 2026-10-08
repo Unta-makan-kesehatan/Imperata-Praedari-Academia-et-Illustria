@@ -118,8 +118,7 @@ body::before {
 .md-typeset p { margin: 0 0 1.25em; }
 .md-typeset p,
 .md-typeset li {
-  text-align: justify;
-  text-justify: inter-word;
+  text-align: left;
   hyphens: none;
   -webkit-hyphens: none;
   word-break: normal;
@@ -202,6 +201,10 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid 
   .md-main__inner { margin: 1rem .7rem 0; }
   .md-content__inner { padding: 1rem; }
   .md-typeset .world-hero { margin: -.85rem -.85rem 1.6rem; }
+  .md-typeset p,
+  .md-typeset li {
+    text-align: left;
+  }
 }
 @media (max-width: 35em) {
   .md-header__title { font-size: .68rem; letter-spacing: 0; margin-left: 0; }
