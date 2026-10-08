@@ -25,8 +25,13 @@ nav:
       - Praedari Disciplines: "praedari disciplines.md"
       - Magic Item Classification: "magic item classification.md"
 
+  - Races:
+      - The Races of Avara: races.md
+      - Humans: Races/humans.md
+      - Halflings: Races/halflings.md
+      - Goliaths: Races/goliaths.md
+      - Half-Orcs and Half-Elves: "Races/half orcs & half elves.md"
   - The Gods: the gods.md
-  - Races: races.md
   
 markdown_extensions:
   - attr_list
