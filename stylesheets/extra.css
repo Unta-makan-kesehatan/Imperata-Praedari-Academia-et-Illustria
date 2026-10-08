@@ -120,7 +120,10 @@ body::before {
 .md-typeset li {
   text-align: justify;
   text-justify: inter-word;
-  hyphens: auto;
+  hyphens: none;
+  -webkit-hyphens: none;
+  word-break: normal;
+  overflow-wrap: normal;
 }
 .md-typeset > p:not(.mana-tagline),
 .md-typeset > ul,
