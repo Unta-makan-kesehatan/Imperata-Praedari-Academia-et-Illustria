@@ -1115,6 +1115,7 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid 
 }
 
 .praedari-discipline-image,
+.magic-item-image,
 .race-banner {
   display: block;
   width: 100%;
